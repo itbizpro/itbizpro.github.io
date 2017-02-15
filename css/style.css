@@ -1,0 +1,24 @@
+section#main {
+
+}
+
+section#exp {
+	height: 100vh;
+	padding-top: 150px;
+
+}
+
+img {
+	margin: 0 auto;
+}
+
+.box {
+	border: 2px solid #000;
+	height: 100px;
+	
+}
+
+.enter {
+	height: 50px;
+	background-color: green;
+}
